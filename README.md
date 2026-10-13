@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Lucas 👋
 
-### Aplicações web · Automação · Integração com Android
+### Aplicações web · Automação · IA e Android
 
 Crio ferramentas para simplificar tarefas do dia a dia e conectar dispositivos.
 
@@ -34,6 +34,26 @@ Simulação experimental com moradores, economia e eleições. Um motor Python v
 
 [Conhecer a simulação →](https://github.com/FassoloLucas/mundo-das-ias)
 
+### 🎙️ [J.A.R.V.I.S. — Assistente de voz](https://github.com/FassoloLucas/jarvis-assistente)
+
+**Um protótipo que conecta voz, IA e automação do PC.**
+
+Reúne interface desktop no Windows, reconhecimento e síntese de voz e ferramentas acionadas por um modelo de linguagem. Inclui backend FastAPI e cliente Flutter com chat e voz.
+
+`Python` `FastAPI` `Flutter` `Dart` `MongoDB` `LLMs`
+
+[Explorar o assistente →](https://github.com/FassoloLucas/jarvis-assistente)
+
+### 🎵 [Bot de música para Discord](https://github.com/FassoloLucas/discord-music-bot)
+
+**Música com comandos de barra, botões e playlists persistentes.**
+
+Bot Python com fila por servidor, controles de reprodução e playlists salvas. Integra discord.py, yt-dlp e FFmpeg, com testes de lógica local e scripts de implantação para Ubuntu/systemd.
+
+`Python` `discord.py` `yt-dlp` `FFmpeg`
+
+[Ver código e documentação →](https://github.com/FassoloLucas/discord-music-bot)
+
 ### 👕 [10 e Faixa — Gestão de vendas](https://github.com/FassoloLucas/10efaixa2)
 
 **Organização de produtos, estoque e vendas em uma aplicação web.**
@@ -58,9 +78,11 @@ Recebe planilhas, processa suas abas com pandas e entrega os arquivos convertido
 
 ## O que você encontra por aqui
 
+- **IA aplicada:** simulação de agentes e integração de modelos com ferramentas.
 - **Aplicações web:** interfaces, APIs e processamento de arquivos.
 - **Automação no Windows:** scripts de configuração e integração entre ferramentas.
 - **Integração entre dispositivos:** comunicação em rede local e controle de Android via ADB.
 
 As tecnologias acima aparecem nos meus projetos públicos. Cada repositório apresenta seu código, documentação e contexto de uso.
+
 
