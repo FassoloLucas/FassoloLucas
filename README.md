@@ -24,6 +24,16 @@ Integra um servidor Node.js no Windows ao LDPlayer por ADB. O controle funciona 
 
 [Ver código e instruções →](https://github.com/FassoloLucas/tv-no-pc#como-funciona)
 
+### 🏙️ [Mundo das IAs — Vila Nova](https://github.com/FassoloLucas/mundo-das-ias)
+
+**Uma cidade simulada para explorar decisões de agentes de IA.**
+
+Simulação experimental com moradores, economia e eleições. Um motor Python valida as ações dos agentes; FastAPI e WebSocket atualizam o mapa e os indicadores no navegador. Inclui um modo offline com decisões heurísticas.
+
+`Python` `FastAPI` `WebSocket` `JavaScript` `Agentes de IA`
+
+[Conhecer a simulação →](https://github.com/FassoloLucas/mundo-das-ias)
+
 ### 👕 [10 e Faixa — Gestão de vendas](https://github.com/FassoloLucas/10efaixa2)
 
 **Organização de produtos, estoque e vendas em uma aplicação web.**
@@ -53,3 +63,4 @@ Recebe planilhas, processa suas abas com pandas e entrega os arquivos convertido
 - **Integração entre dispositivos:** comunicação em rede local e controle de Android via ADB.
 
 As tecnologias acima aparecem nos meus projetos públicos. Cada repositório apresenta seu código, documentação e contexto de uso.
+
