@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Lucas 👋
+# Sou Lucas, Especialista Contábil 👋
 
 ### Aplicações web · Automação · IA e Android
 
