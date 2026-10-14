@@ -14,6 +14,36 @@ Crio ferramentas para simplificar tarefas do dia a dia e conectar dispositivos.
 
 ## Projetos em destaque
 
+### 📚 [Gerador de Livro Razão — ECD](https://github.com/FassoloLucas/gerador-razao-ecd)
+
+**Da escrituração contábil ao Livro Razão, com conferência dos saldos.**
+
+Indexa o TXT da ECD em SQLite, gera PDFs por grupo de contas e confere os movimentos impressos contra os saldos da escrituração. Inclui interface com progresso, cancelamento e retomada, cálculos com Decimal e testes com dados fictícios.
+
+`Python` `SQLite` `Tkinter` `ReportLab` `pytest` `GitHub Actions`
+
+[Ver código e documentação →](https://github.com/FassoloLucas/gerador-razao-ecd)
+
+### 🧾 [Extrator de XML Fiscal para Excel](https://github.com/FassoloLucas/extrator-xml-fiscal)
+
+**Documentos fiscais transformados em uma planilha organizada.**
+
+Aplicativo desktop que lê XMLs fiscais de uma pasta e exporta os dados para Excel formatado. O processamento é local, com interface para selecionar arquivos e acompanhar a extração.
+
+`Python` `CustomTkinter` `pandas` `XlsxWriter` `XML`
+
+[Explorar o extrator →](https://github.com/FassoloLucas/extrator-xml-fiscal)
+
+### 📈 [Relatório Gerencial — CGO × Filial](https://github.com/FassoloLucas/relatorio-gerencial-cgo)
+
+**Cruzamento de produtos e filiais para apoiar a conferência gerencial.**
+
+Cruza relatórios CSV por código de produto e gera um Excel com movimentos por filial. Produtos vinculados a múltiplos CGOs ficam em uma aba de auditoria para revisão.
+
+`Python` `Tkinter` `pandas` `openpyxl`
+
+[Conhecer o relatório →](https://github.com/FassoloLucas/relatorio-gerencial-cgo)
+
 ### 📺 [TV no PC](https://github.com/FassoloLucas/tv-no-pc)
 
 **O celular vira controle remoto; o PC vira uma experiência de TV box.**
