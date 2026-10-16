@@ -1,20 +1,20 @@
 <div align="center">
 
-# Sou Lucas, Especialista Contábil e Desenvolvedor 👋
+# Sou Lucas, Especialista Contábil e Desenvolvedor
 
 ### Engenharia de Software aplicada à Contabilidade · Automação Fiscal · IA
 
 Uno a vivência prática da rotina contábil e fiscal do varejo ao desenvolvimento de sistemas web, integrações com banco de dados e automações que eliminam o trabalho manual.
 
-[Conheça meus projetos](#em-produção-arquitetura-corporativa) · [Explore os repositórios](https://github.com/FassoloLucas?tab=repositories)
+[Conheça meus projetos](#em-producao-arquitetura-corporativa) · [Explore os repositórios](https://github.com/FassoloLucas?tab=repositories)
 
 </div>
 
 ---
 
-## 🏢 Em produção (Arquitetura Corporativa)
+## Em produção (Arquitetura Corporativa)
 
-### 📊 [Plataforma Web de Gestão Contábil, Fiscal e Controladoria](https://github.com/FassoloLucas/gestao-contratos-locacao-ia)
+### [Plataforma Web de Gestão Contábil, Fiscal e Controladoria](https://github.com/FassoloLucas/gestao-contratos-locacao-ia)
 
 **Ecossistema corporativo integrado ao ERP Consinco (Oracle) para operação de varejo em escala (19 lojas).**
 
@@ -27,13 +27,13 @@ Projetei e desenvolvi do zero a plataforma interna que centraliza a análise con
 
 `Python` `FastAPI` `Oracle SQL` `MongoDB` `JavaScript` `Chart.js` `Firebase` `pandas` `ReportLab` `WeasyPrint` `LLMs (Gemini / Groq)` `pytest`
 
-[Ver estudo de caso e arquitetura →](https://github.com/FassoloLucas/gestao-contratos-locacao-ia)
+[Ver estudo de caso e arquitetura](https://github.com/FassoloLucas/gestao-contratos-locacao-ia)
 
 ---
 
-## 🧾 Ferramentas Contábeis e Fiscais (Open Source)
+## Ferramentas Contábeis e Fiscais (Open Source)
 
-### 📚 [Gerador de Livro Razão (ECD)](https://github.com/FassoloLucas/gerador-razao-ecd)
+### [Gerador de Livro Razão (ECD)](https://github.com/FassoloLucas/gerador-razao-ecd)
 
 **Da escrituração contábil ao Livro Razão, com conferência dos saldos.**
 
@@ -41,9 +41,9 @@ Indexa o TXT da ECD em SQLite, gera PDFs por grupo de contas e confere os movime
 
 `Python` `SQLite` `Tkinter` `ReportLab` `pytest` `GitHub Actions`
 
-[Ver código e documentação →](https://github.com/FassoloLucas/gerador-razao-ecd)
+[Ver código e documentação](https://github.com/FassoloLucas/gerador-razao-ecd)
 
-### 🗂️ [Extrator de XML Fiscal para Excel](https://github.com/FassoloLucas/extrator-xml-fiscal)
+### [Extrator de XML Fiscal para Excel](https://github.com/FassoloLucas/extrator-xml-fiscal)
 
 **Documentos fiscais transformados em uma planilha organizada.**
 
@@ -51,9 +51,9 @@ Aplicativo desktop que lê XMLs fiscais de uma pasta e exporta os dados para Exc
 
 `Python` `CustomTkinter` `pandas` `XlsxWriter` `XML`
 
-[Explorar o extrator →](https://github.com/FassoloLucas/extrator-xml-fiscal)
+[Explorar o extrator](https://github.com/FassoloLucas/extrator-xml-fiscal)
 
-### 📈 [Relatório Gerencial (CGO × Filial)](https://github.com/FassoloLucas/relatorio-gerencial-cgo)
+### [Relatório Gerencial (CGO × Filial)](https://github.com/FassoloLucas/relatorio-gerencial-cgo)
 
 **Cruzamento de produtos e filiais para apoiar a conferência gerencial.**
 
@@ -61,9 +61,9 @@ Cruza relatórios CSV por código de produto e gera um Excel com movimentos por 
 
 `Python` `Tkinter` `pandas` `openpyxl`
 
-[Conhecer o relatório →](https://github.com/FassoloLucas/relatorio-gerencial-cgo)
+[Conhecer o relatório](https://github.com/FassoloLucas/relatorio-gerencial-cgo)
 
-### 📊 [Conversor de planilhas](https://github.com/FassoloLucas/Conversor2)
+### [Conversor de planilhas](https://github.com/FassoloLucas/Conversor2)
 
 **Conversão de vários arquivos XLS para XLSX pelo navegador.**
 
@@ -71,13 +71,13 @@ Recebe planilhas, processa suas abas com pandas e entrega os arquivos convertido
 
 `Python` `Flask` `pandas` `HTML` `JavaScript`
 
-[Ver a implementação →](https://github.com/FassoloLucas/Conversor2)
+[Ver a implementação](https://github.com/FassoloLucas/Conversor2)
 
 ---
 
-## 🤖 IA, Aplicações Web e Automação
+## IA, Aplicações Web e Automação
 
-### 🏙️ [Mundo das IAs (Vila Nova)](https://github.com/FassoloLucas/mundo-das-ias)
+### [Mundo das IAs (Vila Nova)](https://github.com/FassoloLucas/mundo-das-ias)
 
 **Uma cidade simulada para explorar decisões de agentes de IA.**
 
@@ -85,9 +85,9 @@ Simulação experimental com moradores, economia e eleições. Um motor Python v
 
 `Python` `FastAPI` `WebSocket` `JavaScript` `Agentes de IA`
 
-[Conhecer a simulação →](https://github.com/FassoloLucas/mundo-das-ias)
+[Conhecer a simulação](https://github.com/FassoloLucas/mundo-das-ias)
 
-### 🎙️ [J.A.R.V.I.S. (Assistente de voz)](https://github.com/FassoloLucas/jarvis-assistente)
+### [J.A.R.V.I.S. (Assistente de voz)](https://github.com/FassoloLucas/jarvis-assistente)
 
 **Um protótipo que conecta voz, IA e automação do PC.**
 
@@ -95,9 +95,9 @@ Reúne interface desktop no Windows, reconhecimento e síntese de voz e ferramen
 
 `Python` `FastAPI` `Flutter` `Dart` `MongoDB` `LLMs`
 
-[Explorar o assistente →](https://github.com/FassoloLucas/jarvis-assistente)
+[Explorar o assistente](https://github.com/FassoloLucas/jarvis-assistente)
 
-### 👕 [10 e Faixa (Gestão de vendas)](https://github.com/FassoloLucas/10efaixa2)
+### [10 e Faixa (Gestão de vendas)](https://github.com/FassoloLucas/10efaixa2)
 
 **Organização de produtos, estoque e vendas em uma aplicação web.**
 
@@ -105,9 +105,9 @@ Projeto com backend Flask e frontend em HTML, CSS e JavaScript. A interface reú
 
 `Python` `Flask` `HTML` `CSS` `JavaScript` `PostgreSQL`
 
-[Explorar o projeto →](https://github.com/FassoloLucas/10efaixa2)
+[Explorar o projeto](https://github.com/FassoloLucas/10efaixa2)
 
-### 📺 [TV no PC](https://github.com/FassoloLucas/tv-no-pc)
+### [TV no PC](https://github.com/FassoloLucas/tv-no-pc)
 
 **O celular vira controle remoto; o PC vira uma experiência de TV box.**
 
@@ -115,9 +115,9 @@ Integra um servidor Node.js no Windows ao LDPlayer por ADB. O controle funciona 
 
 `JavaScript` `Node.js` `PowerShell` `Java` `Android` `ADB`
 
-[Ver código e instruções →](https://github.com/FassoloLucas/tv-no-pc#como-funciona)
+[Ver código e instruções](https://github.com/FassoloLucas/tv-no-pc#como-funciona)
 
-### 🎵 [Bot de música para Discord](https://github.com/FassoloLucas/discord-music-bot)
+### [Bot de música para Discord](https://github.com/FassoloLucas/discord-music-bot)
 
 **Música com comandos de barra, botões e playlists persistentes.**
 
@@ -125,7 +125,7 @@ Bot Python com fila por servidor, controles de reprodução e playlists salvas. 
 
 `Python` `discord.py` `yt-dlp` `FFmpeg`
 
-[Ver código e documentação →](https://github.com/FassoloLucas/discord-music-bot)
+[Ver código e documentação](https://github.com/FassoloLucas/discord-music-bot)
 
 ---
 
