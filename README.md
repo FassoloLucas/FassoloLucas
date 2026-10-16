@@ -135,3 +135,4 @@ Bot Python com fila por servidor, controles de reprodução e playlists salvas. 
 - **Aplicações Web e APIs:** backends em FastAPI e Flask, geração de relatórios de alta performance (Excel e PDF) e processamento de dados com pandas.
 - **IA Aplicada:** assistentes contextuais, leitura de documentos e simulação de agentes.
 - **Integração entre dispositivos:** comunicação em rede local, apps mobile e automação no Windows.
+AAAAAAAAAAA
